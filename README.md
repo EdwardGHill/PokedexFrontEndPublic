@@ -1,3 +1,30 @@
+This is my first project, a Pokedex web app with an account system. Created to learn the basics of front end design using React, Html, CSS.
+
+Currently features:
+User Registration and Sign In
+Reactive Format/Error Messages for Login/Registration Fields
+Team Generation
+Display Pokemon Details
+Scroll Through Pokemon
+Ability to Add/Remove Pokemon from Collection/Favorites
+Search Pokemon by Name
+Page Scroll to Details Box When Pokemon Clicked
+Display Pokemon by Generation
+Display Pokemon by Type
+Display Favorites
+Collection Page
+Loading Animation
+Logout
+Reactive Page Layout
+
+To Do:
+Move Login/Registration API Calls to api.js
+Improve Collection Page
+Improve Code Consistancy, currently some different techniquies are used as I learnt and experiemented as I went, these should be brought into stylistic alignment.
+Account Deletion
+
+Some Gameboy Pokemon CSS borrowed from https://github.com/luttje/css-pokemon-gameboy/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
