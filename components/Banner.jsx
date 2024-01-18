@@ -1,0 +1,1 @@
+<img src={"/dex.png"} alt="Pokedex Logo" className="w-3/4 mx-auto" />
