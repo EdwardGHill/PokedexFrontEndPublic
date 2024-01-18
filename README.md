@@ -4,41 +4,41 @@ This is my first project, a Pokedex web app with an account system. Created to l
 
 Currently features:
 
-User Registration and Sign In
+- User Registration and Sign In
 
-Reactive Format/Error Messages for Login/Registration Fields
+- Reactive Format/Error Messages for Login/Registration Fields
 
-Team Generation
+- Team Generation
 
-Display Pokemon Details
+- Display Pokemon Details
 
-Scroll Through Pokemon
+- Scroll Through Pokemon
 
-Ability to Add/Remove Pokemon from Collection/Favorites
+- Ability to Add/Remove Pokemon from Collection/Favorites
 
-Search Pokemon by Name
+- Search Pokemon by Name
 
-Page Scroll to Details Box When Pokemon Clicked
+- Page Scroll to Details Box When Pokemon Clicked
 
-Display Pokemon by Generation
+- Display Pokemon by Generation
 
-Display Pokemon by Type
+- Display Pokemon by Type
 
-Display Favorites
+- Display Favorites
 
-Collection Page
+- Collection Page
 
-Loading Animation
+- Loading Animation
 
-Logout
+- Logout
 
-Reactive Page Layout
+- Reactive Page Layout
 
 To Do:
-Move Login/Registration API Calls to api.js
-Improve Collection Page
-Improve Code Consistancy, currently some different techniquies are used as I learnt and experiemented as I went, these should be brought into stylistic alignment.
-Account Deletion
+- Move Login/Registration API Calls to api.js
+- Improve Collection Page
+- Improve Code Consistancy, currently some different techniquies are used as I learnt and experiemented as I went, these should be brought into stylistic alignment.
+- Account Deletion
 
 Some Gameboy Pokemon CSS borrowed from https://github.com/luttje/css-pokemon-gameboy/
 
