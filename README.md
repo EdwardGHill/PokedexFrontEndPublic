@@ -1,3 +1,5 @@
+## Pokedex Web App
+
 This is my first project, a Pokedex web app with an account system. Created to learn the basics of front end design using React, Html, CSS.
 
 Currently features:
